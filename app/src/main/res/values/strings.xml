@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Codex Vespertilio</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="bat_image">Bat Image</string>
+    <string name="open_form">Open Form</string>
+
+    <string-array name="sex_options">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Seen</item>
+        <item>Not seen</item>
+    </string-array>
+
+</resources>
